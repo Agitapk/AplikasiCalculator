@@ -1,0 +1,33 @@
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe.config
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\bin\Debug\AplikasiCalculator.pdb
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.csprojAssemblyReference.cache
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.Calculator.resources
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.frmHasilPerhitungan.resources
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.Properties.Resources.resources
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.GenerateResource.cache
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.exe
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.pdb
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe.config
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\bin\Debug\AplikasiCalculator.pdb
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.Calculator.resources
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.frmHasilPerhitungan.resources
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.exe
+C:\Users\ASUS\Downloads\DelegateandEvent-master\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.pdb
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe.config
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\bin\Debug\AplikasiCalculator.pdb
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.csprojAssemblyReference.cache
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.Calculator.resources
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.frmHasilPerhitungan.resources
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.Properties.Resources.resources
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.GenerateResource.cache
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.CoreCompileInputs.cache
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.exe
+D:\Fix (PEMROG)\DelegateandEvent-master\AplikasiCalculator\obj\Debug\AplikasiCalculator.pdb
